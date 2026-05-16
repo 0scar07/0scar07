@@ -1,58 +1,113 @@
+---
+
+# 🌌 About Me
+
 <div align="center">
 
-<img width="100%" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
+<table>
+<tr>
 
-# ⚡ 0scar07 ⚡
+<td style="padding:16px; border-radius:12px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
+### 🎓 Education
+Universidad Simón Bolívar  
+Systems Engineering  
 
-<br>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=0scar07&label=CYBER+VISITORS&color=00F7FF&style=for-the-badge"/>
+<td style="padding:16px; border-radius:12px;">
+
+### 🌍 Location
+Colombia 🇨🇴  
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🌌 About Me
+## 💡 Focus Areas
 
-```yaml
-name: Oscar David
-username: 0scar07
+<div align="center">
 
-education:
-  university: Universidad Simón Bolívar
-  career: Systems Engineering
+- Artificial Intelligence & Machine Learning  
+- TensorFlow & Data Systems  
+- IoT Development (ESP32)  
+- Backend Development  
+- Open Source Contributions  
 
-located_in: Colombia 🇨🇴
-
-current_focus:
-  [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "TensorFlow",
-    "IoT with ESP32",
-    "Open Source"
-  ]
-
-currently_learning:
-  [
-    "Advanced AI",
-    "Backend Development",
-    "Cloud Computing",
-    "Cybersecurity"
-  ]
-
-hobbies:
-  [
-    "Coding",
-    "Streaming",
-    "Gaming",
-    "Research"
-  ]
-```
+</div>
 
 ---
+
+## 🧠 Technical Profile
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+
+### ⚙️ Software
+- Python  
+- Java  
+- JavaScript  
+- Backend APIs  
+
+</td>
+
+<td>
+
+### 🤖 AI / Data
+- Machine Learning  
+- TensorFlow  
+- Predictive Models  
+- Data Processing  
+
+</td>
+
+<td>
+
+### 📡 IoT Systems
+- ESP32  
+- Arduino  
+- Sensor Systems  
+- Embedded Programming  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<div align="center">
+
+```text
+AI Systems → IoT Integration → Backend Architecture → Cloud Fundamentals
+```
+
+</div>
+
+---
+
+## 🎯 Professional Goal
+
+<div align="center">
+
+Design and develop scalable systems that integrate  
+Artificial Intelligence, IoT, and backend technologies  
+into real-world engineering solutions.
+
+</div>
 
 # 🎧 Spotify Playing
 
