@@ -69,7 +69,7 @@ hobbies:
 
 </div>
 
----
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -87,7 +87,7 @@ hobbies:
 <img src="https://streak-stats.demolab.com?user=0scar07&theme=tokyonight&hide_border=true"/>
 
 </div>
----
+
 
 # ⏱️ Coding Activity
 
@@ -97,7 +97,7 @@ hobbies:
 
 </div>
 
----
+
 
 # 📈 Contribution Graph
 
@@ -107,7 +107,7 @@ hobbies:
 
 </div>
 
----
+
 
 # 🏆 GitHub Trophies
 
@@ -117,7 +117,7 @@ hobbies:
 
 </div>
 
----
+
 
 # 🐍 Snake Animation
 
@@ -127,7 +127,7 @@ hobbies:
 
 </div>
 
----
+
 
 # 💻 Matrix Rain Effect
 
@@ -137,7 +137,7 @@ hobbies:
 
 </div>
 
----
+
 
 # 🚀 Current Projects
 
@@ -147,7 +147,7 @@ hobbies:
 - 📊 Real-time analytics
 - 🔓 Open source projects
 
----
+
 
 # 🌐 Connect With Me
 
@@ -171,7 +171,7 @@ hobbies:
 
 <div align="center">
 
-```ascii
+```
  ██████╗ ███████╗ ██████╗ █████╗ ██████╗  ██████╗ ███████╗
 ██╔═████╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔═████╗╚════██║
 ██║██╔██║███████╗██║     ███████║██████╔╝██║██╔██║    ██╔╝
@@ -181,6 +181,7 @@ hobbies:
 ```
 
 </div>
+
 
 <div align="center">
 
