@@ -59,7 +59,7 @@ hobbies:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m4y50sgozb6stijr9p8duzgyb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
----
+
 
 # 🧠 Tech Stack
 
