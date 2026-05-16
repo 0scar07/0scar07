@@ -1,17 +1,5 @@
 <div align="center">
 
-<img src="https://media.tenor.com/8Y7J5bQ2Y0AAAAAC/loading-buffering.gif" width="100"/>
-
-# ⚡ SYSTEM INITIALIZING... ⚡
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
-
 # ⚡ 0scar07 ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
@@ -22,65 +10,67 @@
 
 </div>
 
----
-
-<div align="center">
-
-### ▓▓▓ LOADING SYSTEM MODULES ▓▓▓
-
-</div>
-
----
 
 # 🌌 About Me
 
 ```yaml
 name: Oscar David
 username: 0scar07
-role: Systems Engineering Student
-university: Universidad Simón Bolívar
-country: Colombia 🇨🇴
 
-focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - IoT (ESP32)
-  - Backend Systems
-  - Open Source
+education:
+  university: Universidad Simón Bolívar
+  career: Systems Engineering
 
-current_learning:
-  - Advanced AI Models
-  - Cloud Architecture
-  - Cybersecurity
-  - Scalable Backend Design
+located_in: Colombia 🇨🇴
+
+current_focus:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "TensorFlow",
+    "IoT with ESP32",
+    "Open Source"
+  ]
+
+currently_learning:
+  [
+    "Advanced AI",
+    "Backend Development",
+    "Cloud Computing",
+    "Cybersecurity"
+  ]
+
+hobbies:
+  [
+    "Coding",
+    "Streaming",
+    "Gaming",
+    "Research"
+  ]
 ```
 
----
+
+
+
+# 🎧 Spotify Playing
 
 <div align="center">
 
-### 📡 SYSTEM STATUS
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m4y50sgozb6stijr9p8duzgyb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
-- 🟢 AI Engine: Active  
-- 🟢 IoT Systems: Running  
-- 🟡 Backend: In Development  
-- 🟢 Open Source: Active  
 
----
-
-# 🎧 LIVE MODULE
+# 🧠 Tech Stack
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=m4y50sgozb6stijr9p8duzgyb&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,mysql,postgres,tensorflow,arduino,git,github,vscode&perline=7"/>
 
 </div>
 
----
 
-# 📊 ANALYTICS CORE
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -90,9 +80,26 @@ current_learning:
 
 </div>
 
----
+# 🔥 GitHub Streak
 
-# 📈 ACTIVITY STREAM
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=0scar07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+# ⏱️ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0scar07&theme=tokyonight"/>
+
+</div>
+
+
+
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -100,9 +107,20 @@ current_learning:
 
 </div>
 
----
 
-# 🐍 CONTRIBUTION MATRIX
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=0scar07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+
+
+
+# 💻 Matrix Rain Effect
 
 <div align="center">
 
@@ -110,14 +128,51 @@ current_learning:
 
 </div>
 
----
+
+
+# 🚀 Current Projects
+
+- 🤖 AI prediction systems
+- 🌱 Agricultural mathematical models
+- 📡 ESP32 smart dashboards
+- 📊 Real-time analytics
+- 🔓 Open source projects
+
+
+
+# 🌐 Connect With Me
 
 <div align="center">
 
+<a href="https://github.com/0scar07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/oscar-david-llanos-luna-2104601b8/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:osky7470@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+<div align="center">
+
 <pre>
-SYSTEM STATUS: ONLINE
-MODE: DEVELOPMENT
-FOCUS: AI • IoT • BACKEND
+ ██████╗ ███████╗ ██████╗ █████╗ ██████╗  ██████╗ ███████╗
+██╔═████╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔═████╗╚════██║
+██║██╔██║███████╗██║     ███████║██████╔╝██║██╔██║    ██╔╝
+████╔╝██║╚════██║██║     ██╔══██║██╔══██╗████╔╝██║   ██╔╝
+╚██████╔╝███████║╚██████╗██║  ██║██║  ██║╚██████╔╝   ██║
+ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝
 </pre>
+
+</div>
+<div align="center">
+
+### ⚡ Systems Engineering • Universidad Simón Bolívar ⚡
 
 </div>
