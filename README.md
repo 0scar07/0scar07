@@ -1,16 +1,196 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0scar07/0scar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-Here are some ideas to get you started:
+# ⚡ 0scar07 ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Systems+Engineering+Student;Universidad+Simón+Bolívar;AI+Developer;TensorFlow+Engineer;ESP32+%7C+IoT+Developer;Open+Source+Contributor" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=0scar07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 About Me
+
+```yaml
+name: Oscar David
+username: 0scar07
+
+education:
+  university: Universidad Simón Bolívar
+  career: Systems Engineering
+
+located_in: Colombia 🇨🇴
+
+current_focus:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "TensorFlow",
+    "IoT with ESP32",
+    "Open Source"
+  ]
+
+currently_learning:
+  [
+    "Advanced AI",
+    "Backend Development",
+    "Cloud Computing",
+    "Cybersecurity"
+  ]
+
+hobbies:
+  [
+    "Coding",
+    "Streaming",
+    "Gaming",
+    "Research"
+  ]
+```
+
+---
+
+# 🎧 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxx&redirect=true)
+
+</div>
+
+---
+
+# 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,mysql,postgres,tensorflow,arduino,git,github,vscode&perline=7"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0scar07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0scar07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=0scar07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⏱️ Wakatime Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TUWAKATIME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0scar07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=0scar07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+![Snake animation](https://github.com/0scar07/0scar07/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 💻 Matrix Rain Effect
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Current Projects
+
+- 🤖 AI prediction systems
+- 🌱 Agricultural mathematical models
+- 📡 ESP32 smart dashboards
+- 📊 Real-time analytics
+- 🔓 Open source projects
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/0scar07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:example@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+ ██████╗ ███████╗ ██████╗ █████╗ ██████╗  ██████╗ ███████╗
+██╔═████╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔═████╗╚════██║
+██║██╔██║███████╗██║     ███████║██████╔╝██║██╔██║    ██╔╝
+████╔╝██║╚════██║██║     ██╔══██║██╔══██╗████╔╝██║   ██╔╝
+╚██████╔╝███████║╚██████╗██║  ██║██║  ██║╚██████╔╝   ██║
+ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝
+```
+
+</div>
+
+<div align="center">
+
+### ⚡ Systems Engineering • Universidad Simón Bolívar ⚡
+
+</div>
