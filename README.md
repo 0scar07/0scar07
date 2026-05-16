@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
+
 # ⚡ 0scar07 ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
@@ -10,6 +12,7 @@
 
 </div>
 
+---
 
 # 🌌 About Me
 
@@ -49,8 +52,7 @@ hobbies:
   ]
 ```
 
-
-
+---
 
 # 🎧 Spotify Playing
 
@@ -60,6 +62,7 @@ hobbies:
 
 </div>
 
+---
 
 # 🧠 Tech Stack
 
@@ -69,6 +72,7 @@ hobbies:
 
 </div>
 
+---
 
 # 📊 GitHub Stats
 
@@ -80,6 +84,8 @@ hobbies:
 
 </div>
 
+---
+
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -88,6 +94,7 @@ hobbies:
 
 </div>
 
+---
 
 # ⏱️ Coding Activity
 
@@ -97,7 +104,7 @@ hobbies:
 
 </div>
 
-
+---
 
 # 📈 Contribution Graph
 
@@ -107,7 +114,7 @@ hobbies:
 
 </div>
 
-
+---
 
 # 🏆 GitHub Trophies
 
@@ -117,8 +124,7 @@ hobbies:
 
 </div>
 
-
-
+---
 
 # 💻 Matrix Rain Effect
 
@@ -128,17 +134,17 @@ hobbies:
 
 </div>
 
-
+---
 
 # 🚀 Current Projects
 
-- 🤖 AI prediction systems
-- 🌱 Agricultural mathematical models
-- 📡 ESP32 smart dashboards
-- 📊 Real-time analytics
-- 🔓 Open source projects
+- 🤖 AI prediction systems  
+- 🌱 Agricultural mathematical models  
+- 📡 ESP32 smart dashboards  
+- 📊 Real-time analytics  
+- 🔓 Open source projects  
 
-
+---
 
 # 🌐 Connect With Me
 
@@ -159,6 +165,7 @@ hobbies:
 </div>
 
 ---
+
 <div align="center">
 
 <pre>
@@ -171,6 +178,7 @@ hobbies:
 </pre>
 
 </div>
+
 <div align="center">
 
 ### ⚡ Systems Engineering • Universidad Simón Bolívar ⚡
