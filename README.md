@@ -1,7 +1,7 @@
 
 # ⚡ 0scar07 ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Systems+Engineering+Student;Universidad+Simón+Bolívar;AI+Developer;TensorFlow+Engineer;ESP32+%7C+IoT+Developer;Open+Source+Contributor" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
 
 <br>
@@ -50,16 +50,8 @@ hobbies:
   ]
 ```
 
----
-## 🎯 Professional Goal
 
-<div align="center">
 
-Design and develop scalable systems that integrate  
-Artificial Intelligence, IoT, and backend technologies  
-into real-world engineering solutions.
-
-</div>
 
 # 🎧 Spotify Playing
 
