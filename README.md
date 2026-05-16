@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img width="100%" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
 
 # ⚡ 0scar07 ⚡
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=0scar07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=0scar07&label=CYBER+VISITORS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
