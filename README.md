@@ -119,15 +119,6 @@ hobbies:
 
 
 
-# 🐍 Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/0scar07/0scar07/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-
 
 # 💻 Matrix Rain Effect
 
