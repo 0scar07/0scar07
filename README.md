@@ -159,14 +159,12 @@ hobbies:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/
-oscar-david-llanos-luna-2104601b8
-">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/oscar-david-llanos-luna-2104601b8/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="osky7470@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:osky7470@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
