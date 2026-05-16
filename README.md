@@ -4,7 +4,53 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Systems+Engineering+Student;Universidad+Simón+Bolívar;AI+Developer;TensorFlow+Engineer;ESP32+%7C+IoT+Developer;Open+Source+Contributor" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
 
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=0scar07&label=CYBER+VISITORS&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 About Me
+
+```yaml
+name: Oscar David
+username: 0scar07
+
+education:
+  university: Universidad Simón Bolívar
+  career: Systems Engineering
+
+located_in: Colombia 🇨🇴
+
+current_focus:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "TensorFlow",
+    "IoT with ESP32",
+    "Open Source"
+  ]
+
+currently_learning:
+  [
+    "Advanced AI",
+    "Backend Development",
+    "Cloud Computing",
+    "Cybersecurity"
+  ]
+
+hobbies:
+  [
+    "Coding",
+    "Streaming",
+    "Gaming",
+    "Research"
+  ]
+```
+
+---
 ## 🎯 Professional Goal
 
 <div align="center">
