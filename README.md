@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 # ⚡ 0scar07 ⚡
 
@@ -58,10 +58,9 @@ hobbies:
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxx&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m4y50sgozb6stijr9p8duzgyb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
 ---
 
 # 🧠 Tech Stack
