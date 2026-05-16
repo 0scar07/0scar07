@@ -91,11 +91,11 @@ hobbies:
 </div>
 ---
 
-# ⏱️ Wakatime Stats
+# ⏱️ Coding Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TUWAKATIME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0scar07&theme=tokyonight"/>
 
 </div>
 
