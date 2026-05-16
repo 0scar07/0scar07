@@ -136,14 +136,19 @@ hobbies:
 
 ---
 
+<div align="center">
+
 # 🚀 Current Projects
 
-- 🤖 AI prediction systems  
-- 🌱 Agricultural mathematical models  
-- 📡 ESP32 smart dashboards  
-- 📊 Real-time analytics  
-- 🔓 Open source projects  
+<p>
+🤖 AI prediction systems<br>
+🌱 Agricultural mathematical models<br>
+📡 ESP32 smart dashboards<br>
+📊 Real-time analytics<br>
+🔓 Open source projects
+</p>
 
+</div>
 ---
 
 # 🌐 Connect With Me
