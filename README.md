@@ -100,7 +100,7 @@ hobbies:
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0scar07&theme=tokyonight"/>
 
 </div>
 
