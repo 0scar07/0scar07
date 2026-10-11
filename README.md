@@ -78,9 +78,9 @@ hobbies:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0scar07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile-summary-card-output/tokyonight/3-stats.svg"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0scar07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
 
 </div>
 
@@ -100,7 +100,7 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0scar07&theme=tokyonight"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 
 </div>
 
@@ -110,7 +110,7 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0scar07&theme=tokyo-night&hide_border=true"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
 </div>
 
@@ -120,7 +120,7 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=0scar07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=0scar07&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
