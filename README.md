@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=0scar07&label=CYBER+VISITORS&color=00F7FF&style=for-the-badge&abbreviated=false"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=0scar07.0scar07&left_text=CYBER%20VISITORS&left_color=%230d1117&right_color=%2300F7FF"/>
 
 </div>
 
