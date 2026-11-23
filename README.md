@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
+<img alt="" width="100%" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
 
 # ⚡ 0scar07 ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
+<img alt="Animated introduction: systems engineering, software development, and open source" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineering+Student;Universidad+Simon+Bolivar;AI+Developer;TensorFlow+Engineer;IoT+%7C+ESP32+Developer;Open+Source+Contributor" />
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=0scar07.0scar07&left_text=CYBER%20VISITORS&left_color=%230d1117&right_color=%2300F7FF"/>
+<img alt="GitHub profile visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=0scar07.0scar07&left_text=CYBER%20VISITORS&left_color=%230d1117&right_color=%2300F7FF"/>
 
 </div>
 
@@ -131,7 +131,7 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,cs,html,css,react,flutter,nodejs,fastapi,flask,mysql,postgres,tensorflow,arduino,unity,docker,git,github,vscode&perline=8"/>
+<img alt="Python, Java, JavaScript, TypeScript, Dart, C#, HTML, CSS, React, Flutter, Node.js, FastAPI, Flask, MySQL, PostgreSQL, TensorFlow, Arduino, Unity, Docker, Git, GitHub, and VS Code" src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,cs,html,css,react,flutter,nodejs,fastapi,flask,mysql,postgres,tensorflow,arduino,unity,docker,git,github,vscode&perline=8"/>
 
 </div>
 
@@ -141,9 +141,9 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img height="180em" src="./profile-summary-card-output/tokyonight/3-stats.svg"/>
+<img alt="GitHub contribution statistics for 0scar07" height="180em" src="./profile-summary-card-output/tokyonight/3-stats.svg"/>
 
-<img height="180em" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+<img alt="Repositories by programming language for 0scar07" height="180em" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
 
 </div>
 
@@ -153,7 +153,7 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=0scar07&theme=tokyonight&hide_border=true"/>
+<img alt="GitHub contribution streak for 0scar07" src="https://streak-stats.demolab.com?user=0scar07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -163,7 +163,7 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0scar07&theme=tokyonight"/>
+<img alt="GitHub commits by time of day for 0scar07" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0scar07&theme=tokyonight"/>
 
 </div>
 
@@ -173,7 +173,7 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img alt="GitHub contribution activity for 0scar07" src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
 </div>
 
@@ -183,7 +183,7 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=0scar07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img alt="GitHub trophies for 0scar07" src="https://github-trophies.vercel.app/?username=0scar07&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -193,7 +193,7 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img alt="Contribution-grid snake animation from Platane/snk" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -204,15 +204,15 @@ Recent PRs: [React Native Paper accessibility](https://github.com/callstack/reac
 <div align="center">
 
 <a href="https://github.com/0scar07">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img alt="GitHub profile" src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/oscar-david-llanos-luna-2104601b8/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img alt="LinkedIn profile" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:osky7470@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+  <img alt="Email Oscar David" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
